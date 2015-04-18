@@ -1,0 +1,1 @@
+alectagms.BasicSalary
